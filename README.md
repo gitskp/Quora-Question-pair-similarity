@@ -34,4 +34,7 @@ Over 100 million people visit Quora every month, so it's no surprise that many p
 - scikit-learn
 - nltk
 - bs4
+- wordcloud
+- fuzzywuzzy
+
 

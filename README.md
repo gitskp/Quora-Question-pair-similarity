@@ -25,3 +25,13 @@ Over 100 million people visit Quora every month, so it's no surprise that many p
 <h3> 2.1.1 Data Overview </h3>
 
 - Train.csv contains 5 columns : qid1, qid2, question1, question2, is_duplicate <br>
+
+### Required Library to run this case study
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+- nltk
+- bs4
+
